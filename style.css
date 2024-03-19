@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+  margin-top: 50px;
+}
+#crd{
+  border: solid 3px #0000ff;
+}
+
+h2{
+
+  color: #ffffff;
+  margin-top: 15px;
+
+  }
+
+input[type="number"] {
+  padding: 5px;
+  margin: 10px 0 10px 0;
+}
+
+
+select {
+  padding: 5px;
+  margin: 0 10px 0 10px;
+}
+
+#result{
+  color: #fff;
+}
